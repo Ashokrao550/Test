@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Multi changes")
+        print("not getting")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
